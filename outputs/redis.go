@@ -6,7 +6,7 @@ package outputs
 import (
 	"log/syslog"
 
-	"git.algor.tech/huangsk/funnel"
+	"github.com/huangshaokun/funnel"
 	"github.com/spf13/viper"
 	redis "gopkg.in/redis.v5"
 )

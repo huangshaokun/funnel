@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"git.algor.tech/huangsk/funnel"
+	"github.com/huangshaokun/funnel"
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/s3"

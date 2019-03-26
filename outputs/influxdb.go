@@ -8,7 +8,7 @@ import (
 	"log/syslog"
 	"time"
 
-	"git.algor.tech/huangsk/funnel"
+	"github.com/huangshaokun/funnel"
 	influxdb "github.com/influxdata/influxdb/client/v2"
 	"github.com/spf13/viper"
 )

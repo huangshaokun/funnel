@@ -1,4 +1,4 @@
-module git.algor.tech/huangsk/funnel
+module github.com/huangshaokun/funnel
 
 require (
 	github.com/Shopify/sarama v1.17.0

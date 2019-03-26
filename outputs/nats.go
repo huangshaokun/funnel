@@ -6,7 +6,7 @@ package outputs
 import (
 	"log/syslog"
 
-	"git.algor.tech/huangsk/funnel"
+	"github.com/huangshaokun/funnel"
 	"github.com/nats-io/go-nats"
 	"github.com/spf13/viper"
 )

@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"log/syslog"
 
-	"git.algor.tech/huangsk/funnel"
+	"github.com/huangshaokun/funnel"
 	"github.com/spf13/viper"
 	"golang.org/x/net/context"
 	elastic "gopkg.in/olivere/elastic.v5"

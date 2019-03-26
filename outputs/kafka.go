@@ -7,7 +7,7 @@ import (
 	"log/syslog"
 	"time"
 
-	"git.algor.tech/huangsk/funnel"
+	"github.com/huangshaokun/funnel"
 	"github.com/Shopify/sarama"
 	"github.com/spf13/viper"
 )
