@@ -1,4 +1,4 @@
-# funnel [![原文](https://github.com/agnivade/funnel)](https://github.com/agnivade/funnel) [![Build Status](https://travis-ci.org/agnivade/funnel.svg?branch=master)](https://travis-ci.org/agnivade/funnel) [![Go Report Card](https://goreportcard.com/badge/github.com/agnivade/funnel)](https://goreportcard.com/report/github.com/agnivade/funnel) [![codecov](https://codecov.io/gh/agnivade/funnel/branch/master/graph/badge.svg)](https://codecov.io/gh/agnivade/funnel) [![Gitter](https://badges.gitter.im/agnivade/funnel.svg)](https://gitter.im/agnivade/funnel)
+# funnel [原文](https://github.com/agnivade/funnel) [![Build Status](https://travis-ci.org/agnivade/funnel.svg?branch=master)](https://travis-ci.org/agnivade/funnel) [![Go Report Card](https://goreportcard.com/badge/github.com/agnivade/funnel)](https://goreportcard.com/report/github.com/agnivade/funnel) [![codecov](https://codecov.io/gh/agnivade/funnel/branch/master/graph/badge.svg)](https://codecov.io/gh/agnivade/funnel) [![Gitter](https://badges.gitter.im/agnivade/funnel.svg)](https://gitter.im/agnivade/funnel)
 
 ### A new approach to logging
 
